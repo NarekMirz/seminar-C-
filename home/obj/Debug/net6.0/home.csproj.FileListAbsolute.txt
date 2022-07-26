@@ -1,0 +1,15 @@
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\bin\Debug\net6.0\home.exe
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\bin\Debug\net6.0\home.deps.json
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\bin\Debug\net6.0\home.runtimeconfig.json
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\bin\Debug\net6.0\home.dll
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\bin\Debug\net6.0\home.pdb
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.csproj.AssemblyReference.cache
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.AssemblyInfoInputs.cache
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.AssemblyInfo.cs
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.csproj.CoreCompileInputs.cache
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.dll
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\refint\home.dll
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.pdb
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\home.genruntimeconfig.cache
+C:\Users\andom\OneDrive\Рабочий стол\prob2\home\obj\Debug\net6.0\ref\home.dll
